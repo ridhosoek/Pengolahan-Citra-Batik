@@ -1,0 +1,9 @@
+E:\Project\BATIK\BATIK\bin\Debug\BATIK.exe.config
+E:\Project\BATIK\BATIK\bin\Debug\BATIK.exe
+E:\Project\BATIK\BATIK\bin\Debug\BATIK.pdb
+E:\Project\BATIK\BATIK\obj\Debug\BATIK.csprojResolveAssemblyReference.cache
+E:\Project\BATIK\BATIK\obj\Debug\BATIK.Form1.resources
+E:\Project\BATIK\BATIK\obj\Debug\BATIK.Properties.Resources.resources
+E:\Project\BATIK\BATIK\obj\Debug\BATIK.csproj.GenerateResource.Cache
+E:\Project\BATIK\BATIK\obj\Debug\BATIK.exe
+E:\Project\BATIK\BATIK\obj\Debug\BATIK.pdb
